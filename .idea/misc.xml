@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-anydpi/ic_action_done.xml" value="0.2125" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/background_splashscreen.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/button_gradients.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/buttons.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/circle.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/custombutton.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/custombutton2.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/edit_text.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_menu_catagorie_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_menu_home_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_menu_profile_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_menu_setting_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/rounded_corner_view.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/side_nav_bar.xml" value="0.2595" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_homescreen.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_logoscreen.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/app_bar_main.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_main.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_categories.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_gallery.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_slideshow.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/interest_choice.xml" value="0.4" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2595" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
