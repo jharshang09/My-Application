@@ -4,7 +4,6 @@ xmlns:tools="http://schemas.android.com/tools"
 android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:background="@drawable/sssssconcept"
-android:onClick="signup"
 tools:context=".MainActivity"
 tools:ignore="DuplicateClickableBoundsCheck">
 
@@ -13,7 +12,6 @@ tools:ignore="DuplicateClickableBoundsCheck">
     android:layout_height="match_parent"
     android:background="#3fff"
     android:gravity="center"
-    android:onClick="signup"
     android:orientation="vertical"
     android:padding="10dp">
 
@@ -61,7 +59,6 @@ tools:ignore="DuplicateClickableBoundsCheck">
         android:layout_height="45dp"
         android:layout_marginTop="10dp"
         android:background="@drawable/custombutton2"
-        android:onClick="signup"
         android:text="Sign up"
         android:textAllCaps="false"
         android:textColor="#FF000000"

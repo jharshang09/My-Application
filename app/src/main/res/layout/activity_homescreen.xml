@@ -4,7 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/sssssconcept"
-
     tools:context=".MainActivity"
     tools:ignore="DuplicateClickableBoundsCheck">
 
@@ -13,7 +12,6 @@
         android:layout_height="match_parent"
         android:background="#3fff"
         android:gravity="center"
-
         android:orientation="vertical"
         android:padding="10dp">
 

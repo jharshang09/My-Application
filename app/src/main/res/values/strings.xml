@@ -24,4 +24,10 @@
     <string name="vi">VI</string>
     <string name="keep_me_signed_in">Keep me Signed in</string>
     <string name="forget_password">Forget Password?</string>
+    <string name="music">music</string>
+    <string name="dance">dance</string>
+    <string name="art_craft"><![CDATA[Art & craft]]></string>
+    <string name="animation">animation</string>
+    <string name="quotes">quotes</string>
+    <string name="drawing">drawing</string>
 </resources>

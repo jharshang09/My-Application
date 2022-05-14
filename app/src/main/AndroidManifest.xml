@@ -22,9 +22,6 @@
             android:name=".Signin"
             android:exported="false" />
 
-        <activity android:name=".Nevigation"
-            android:exported="false" />
-
         <activity
             android:name=".MainActivity"
             android:exported="true"
