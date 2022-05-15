@@ -36,7 +36,7 @@ tools:ignore="DuplicateClickableBoundsCheck">
         android:textColorHint="#FF000000"
         android:imeActionLabel="action_sign_in_short"
         android:imeOptions="actionDone"
-        android:selectAllOnFocus="true"/>
+        android:selectAllOnFocus="true" />
 
     <EditText
         android:layout_width="250dp"
@@ -48,7 +48,7 @@ tools:ignore="DuplicateClickableBoundsCheck">
         android:textColorHint="#FF000000"
         android:imeActionLabel="action_sign_in_short"
         android:imeOptions="actionDone"
-        android:selectAllOnFocus="true"/>
+        android:selectAllOnFocus="true" />
 
 
 
