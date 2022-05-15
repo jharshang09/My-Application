@@ -22,7 +22,7 @@
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2595" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/rounded_corner_view.xml" value="0.2595" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/side_nav_bar.xml" value="0.2595" />
-        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_homescreen.xml" value="0.4" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_homescreen.xml" value="0.2" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_logoscreen.xml" value="0.18115942028985507" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/animation.xml" value="0.176" />
@@ -37,8 +37,8 @@
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.18115942028985507" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.18115942028985507" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_slideshow.xml" value="0.18115942028985507" />
-        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/interest_choice.xml" value="0.264" />
-        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/music.xml" value="0.152" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/interest_choice.xml" value="0.1" />
+        <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/music.xml" value="0.136" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/quotes.xml" value="0.176" />
         <entry key="..\:/Users/jhars/AndroidStudioProjects/MyApplication/app/src/main/res/layout/sign_up.xml" value="0.1" />

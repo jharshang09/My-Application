@@ -16,7 +16,6 @@ tools:ignore="DuplicateClickableBoundsCheck">
     android:padding="10dp">
 
 
-
     <EditText
         android:layout_width="250dp"
         android:layout_height="40dp"
@@ -51,9 +50,6 @@ tools:ignore="DuplicateClickableBoundsCheck">
         android:selectAllOnFocus="true" />
 
 
-
-
-
     <Button
         android:layout_width="250dp"
         android:layout_height="45dp"
@@ -63,13 +59,6 @@ tools:ignore="DuplicateClickableBoundsCheck">
         android:textAllCaps="false"
         android:textColor="#FF000000"
         android:textStyle="bold" />
-
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="2dp"
-        android:layout_marginTop="15dp"
-        android:background="#3fff" />
-
 
 
 </LinearLayout>
