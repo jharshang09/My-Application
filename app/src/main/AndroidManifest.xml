@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.myapplication">
 
     <application
@@ -21,6 +22,28 @@
         <activity
             android:name=".Signin"
             android:exported="false" />
+
+        <activity android:name=".category"
+            android:exported="false"/>
+
+        <activity android:name=".music"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+
+        <activity android:name=".dance"
+            android:exported="false"/>
+
+        <activity android:name=".drawing"
+            android:exported="false"/>
+
+        <activity android:name=".art"
+            android:exported="false"/>
+
+        <activity android:name=".quotes"
+            android:exported="false"/>
+
+        <activity android:name=".animation"
+            android:exported="false"/>
 
         <activity
             android:name=".MainActivity"

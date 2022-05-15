@@ -40,8 +40,6 @@ public class Homescreen extends AppCompatActivity {
             }
         });
 
-
-
     }
 
 }
